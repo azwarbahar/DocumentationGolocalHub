@@ -7,33 +7,45 @@
 https://go-localhub.com/api/
 ```
 
+1.	Login
+a.	Login with email (email, passwors)
+b.	Login with phone number (number, password)
 
-```json
-{
-  "id": 10,
-  "name": "Star Wars Collection",
-  "overview": "An epic space opera theatrical film series created by George Lucas.\r The first film in the franchise was originally released on May 25, 1977, by 20th Century Fox, and became a worldwide pop culture  phenomenon, followed by two sequels, released at three-year intervals. Sixteen years after the release of the trilogy's final film, the first in a new prequel trilogy of films was released, again released at three-year intervals, with the final film released on May 19, 2005.",
-  "poster_path": null,
-  "backdrop_path": "/shDFE0i7josMt9IKXdYpnMFFgNV.jpg",
-  "parts": [
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        12
-      ],
-      "id": 11,
-      "original_language": "en",
-      "original_title": "Star Wars: Episode IV - A New Hope",
-      "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
-      "release_date": "1977-05-23",
-      "poster_path": "/AbJBXaVPrdXROwb8KmgWUPU2XJX.jpg",
-      "popularity": 1.411624,
-      "title": "Star Wars: Episode IV - A New Hope",
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 2472
-    }
-  ]
-}
-```
+2.	Daftar (default null semua)
+-	Nama
+-	Email
+-	Nomor
+-	Dst..\
+
+3.	Get Top 5 Destinasi wisata
+
+4.	Rekomendasi Penginapan ( Random saja, atau kalau sudah ada rating nya yang paling tinggi taringnya urutan pertama )
+
+5.	Rekomendasi Transporttasi ( Random saja, atau kalau sudah ada rating nya yang paling tinggi taringnya urutan pertama )
+
+6.	Rekomendasi Produk pasar Local ( Random saja, atau kalau sudah ada rating nya yang paling tinggi taringnya urutan pertama )
+
+7.	Get User parameter ID
+
+8.	Get wisata berdasarkan lokasi terdekat
+9.	Get wisata berdasarkan Query pencarian ( jika mendukung seperti pencarian jika saya tulis air terjun akan muncul beberapa wisata yang kategori air terjin, tapi kalau tidak biar pencrian nama saja)
+10.	Get wisata berdasarkan ID wisata
+11.	Get wisata berdasarkan wilayah
+12.	Jika Mendukung bautkan kategori biaya masuk tiap wisata ( seperti harga anak-anak, harga dewasa, harga parkiran dll) jika tidak, tambahkan field di tabel wisata yang dapat mendeteksi wisata masuk menggunakan karcis atau wisata bebeas karcis/tdk bayar
+13.	Get Kendaraan berdasarkan wialayah atau wisata ( rekomendasi kendaraan di tampilkan di dalam detail wisata )
+14.	Get pasar local berdasarkan wilayah atau wisata
+15.	Get penginapan berdasarkan wilayag atau wisata
+16.	Get Ulasa wisata jika mendukung
+17.	Set Ulasan/rating wisata jika mendukung
+18.	A
+19.	A
+20.	A
+21.	A
+22.	A
+23.	A
+24.	A
+25.	A
+26.	A
+27.	a
+     
+
