@@ -1,8 +1,6 @@
 # Documentasi Go-Local-Hub
 ---
-
-
-## BASH URL
+BASH URL
 ```bash
 https://go-localhub.com/api/
 ```
