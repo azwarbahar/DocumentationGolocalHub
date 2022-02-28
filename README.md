@@ -2,6 +2,7 @@
 ---
 
 BASH URL 
-```bash
+GET ```bash
 https://go-localhub.com/api/
 ```
+
