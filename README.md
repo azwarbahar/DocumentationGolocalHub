@@ -37,7 +37,7 @@ b.	Login with phone number (number, password)
 15.	Get penginapan berdasarkan wilayag atau wisata
 16.	Get Ulasa wisata jika mendukung
 17.	Set Ulasan/rating wisata jika mendukung
-18.	A
+### 18.	API UNTUK TRANSAKSI PENTING
 19.	A
 20.	A
 21.	A
