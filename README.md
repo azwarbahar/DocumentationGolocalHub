@@ -38,7 +38,7 @@ b.	Login with phone number (number, password)
 16.	Get Ulasa wisata jika mendukung
 17.	Set Ulasan/rating wisata jika mendukung
 ### 18.	API UNTUK TRANSAKSI PENTING
-19.	A
+19.	get data seperti search (seperti saya mencari maros, akan muncul respon list wisata di maros, transport di maros, penginapan di maros, dan pasar di maros)
 20.	A
 21.	A
 22.	A
